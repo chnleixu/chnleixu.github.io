@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wensheng Cheng | Home | Lei Xu</title>
+    <link>/authors/wensheng-cheng/</link>
+      <atom:link href="/authors/wensheng-cheng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wensheng Cheng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Wensheng Cheng</title>
+      <link>/authors/wensheng-cheng/</link>
+    </image>
+    
+    <item>
+      <title>RAFAT: Recurrent Anchor Field for Aerial Tracking in Cluttered Environments</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
+      <description>&lt;!-- 
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
